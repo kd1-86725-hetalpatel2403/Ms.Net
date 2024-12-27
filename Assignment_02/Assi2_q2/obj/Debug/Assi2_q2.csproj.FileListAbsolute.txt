@@ -1,0 +1,7 @@
+E:\CDAC Karad\Personal Gitdata\Dot_Net\Assignments\Ms.Net\Assigment_02\Assi2_q2\obj\Debug\Assi2_q2.csproj.AssemblyReference.cache
+E:\CDAC Karad\Personal Gitdata\Dot_Net\Assignments\Ms.Net\Assigment_02\Assi2_q2\obj\Debug\Assi2_q2.csproj.CoreCompileInputs.cache
+E:\CDAC Karad\Personal Gitdata\Dot_Net\Assignments\Ms.Net\Assigment_02\Assi2_q2\bin\Debug\Assi2_q2.exe.config
+E:\CDAC Karad\Personal Gitdata\Dot_Net\Assignments\Ms.Net\Assigment_02\Assi2_q2\bin\Debug\Assi2_q2.exe
+E:\CDAC Karad\Personal Gitdata\Dot_Net\Assignments\Ms.Net\Assigment_02\Assi2_q2\bin\Debug\Assi2_q2.pdb
+E:\CDAC Karad\Personal Gitdata\Dot_Net\Assignments\Ms.Net\Assigment_02\Assi2_q2\obj\Debug\Assi2_q2.exe
+E:\CDAC Karad\Personal Gitdata\Dot_Net\Assignments\Ms.Net\Assigment_02\Assi2_q2\obj\Debug\Assi2_q2.pdb

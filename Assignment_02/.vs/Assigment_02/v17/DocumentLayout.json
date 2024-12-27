@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CDAC Karad\\Personal Gitdata\\Dot_Net\\Assignments\\Ms.Net\\Assigment_02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7CF5B7C-0138-43FD-A4AE-8FD0D5631DE0}|Assi2_q2\\Assi2_q2.csproj|e:\\cdac karad\\personal gitdata\\dot_net\\assignments\\ms.net\\assigment_02\\assi2_q2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7CF5B7C-0138-43FD-A4AE-8FD0D5631DE0}|Assi2_q2\\Assi2_q2.csproj|solutionrelative:assi2_q2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462B7965-BC65-4B96-AB18-D0DFFC901975}|Assigment_02\\Assigment_02.csproj|e:\\cdac karad\\personal gitdata\\dot_net\\assignments\\ms.net\\assigment_02\\assigment_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462B7965-BC65-4B96-AB18-D0DFFC901975}|Assigment_02\\Assigment_02.csproj|solutionrelative:assigment_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CDAC Karad\\Personal Gitdata\\Dot_Net\\Assignments\\Ms.Net\\Assigment_02\\Assi2_q2\\Program.cs",
+              "RelativeDocumentMoniker": "Assi2_q2\\Program.cs",
+              "ToolTip": "E:\\CDAC Karad\\Personal Gitdata\\Dot_Net\\Assignments\\Ms.Net\\Assigment_02\\Assi2_q2\\Program.cs",
+              "RelativeToolTip": "Assi2_q2\\Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAswEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T13:05:42.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CDAC Karad\\Personal Gitdata\\Dot_Net\\Assignments\\Ms.Net\\Assigment_02\\Assigment_02\\Program.cs",
+              "RelativeDocumentMoniker": "Assigment_02\\Program.cs",
+              "ToolTip": "E:\\CDAC Karad\\Personal Gitdata\\Dot_Net\\Assignments\\Ms.Net\\Assigment_02\\Assigment_02\\Program.cs",
+              "RelativeToolTip": "Assigment_02\\Program.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAkwGIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T09:56:47.031Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
